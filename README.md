@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est A. Juan-Christin SODOKPON
 
-Bienvenue sur mon profil GitHub !
+Bienvenue sur mon profil !
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue?style=flat&logo=github)](https://jeansdk.github.io/sdkjean/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akouete-jean-sodokpon/)
